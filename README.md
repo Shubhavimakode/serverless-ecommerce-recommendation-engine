@@ -90,13 +90,14 @@ Stored in DynamoDB for recommendation generation.
 
 # 🏗️ System Architecture
 
-![Architecture Diagram](C:\F-13Technologies\Task3\ecommerce-frontend\architecture-diagram.jfif)
+![Architecture Diagram](images/architecture-diagram.jfif)
 
 ---
 
 # 🖥️ Application Output
 
-![Application UI](C:\F-13Technologies\Task3\ecommerce-frontend\project-output.jfif)
+![Application UI](images/project-output.jfif)
+
 
 ---
 
