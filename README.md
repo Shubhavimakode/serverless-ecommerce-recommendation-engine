@@ -316,7 +316,7 @@ Hosted using:
 
 **Shubhavi Makode**
 
-MCA Student | AWS Cloud & Backend Developer  
+MCA Student | AWS Cloud intern at F13  
 Focused on:
 - Serverless Applications
 - AWS Architecture
@@ -328,3 +328,8 @@ Focused on:
 # 📜 License
 
 This project is developed for educational and internship purposes.
+---
+
+
+LinkedIn: www.linkedin.com/in/shubhavi-makode 
+GitHub: https://github.com/Shubhavimakode
